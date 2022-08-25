@@ -1,0 +1,40 @@
+.panel {
+    position: fixed;
+    left: 0;
+    top: 0;
+    border-right: solid black 1px;
+}
+
+.open {
+    width: 10vw;
+    min-height: 100%;
+}
+
+.open p {
+    margin: 0;
+    padding: 10px;
+}
+
+.open p:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.closed {
+    width: 2em;
+    border-bottom: solid black 1px;
+}
+
+.icon {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.open .icon {
+    border-bottom: solid black 1px;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
+

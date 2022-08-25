@@ -1,0 +1,27 @@
+#search-bar {
+    position: relative;
+    display: inline-block;
+}
+
+#search-results {
+    position: absolute;
+    border: solid gray 1px;
+    text-align: left;
+    background-color: white;
+    max-height: 60vh;
+    overflow: scroll;
+}
+
+#search-results p {
+    margin: 0;
+    padding: 5px;
+}
+
+#search-results p:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}

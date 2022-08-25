@@ -1,0 +1,16 @@
+h1 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+#id-input {
+  width: 15em;
+}
+
+#limit-input {
+  width: 5em;
+}
+
+.error-text {
+  color: red;
+}

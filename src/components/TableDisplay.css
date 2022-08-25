@@ -1,0 +1,16 @@
+.list-results {
+    max-height: 480px;
+    overflow-y: scroll;
+}
+
+table, td, th {  
+    border: 1px solid #ddd;
+}
+  
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px 15px;
+}

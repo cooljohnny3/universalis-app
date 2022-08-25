@@ -1,0 +1,13 @@
+.content-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.content-row h4 {
+    margin: 0;
+}
+
+.content h2 {
+    margin-bottom: 0;
+}
