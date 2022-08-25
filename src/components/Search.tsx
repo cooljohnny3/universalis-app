@@ -1,7 +1,7 @@
 import React, { ChangeEvent, useState } from "react";
 
 import "./Search.css";
-import Items from "../items/item_en.json";
+import Items from "../items/items_en.json";
 
 interface SearchProps {
     isFavorite: boolean,
