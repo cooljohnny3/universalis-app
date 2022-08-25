@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c00e8867.css",
-    "main.js": "/static/js/main.6381429b.js",
-    "static/js/787.3431a20f.chunk.js": "/static/js/787.3431a20f.chunk.js",
-    "index.html": "/index.html",
-    "main.c00e8867.css.map": "/static/css/main.c00e8867.css.map",
-    "main.6381429b.js.map": "/static/js/main.6381429b.js.map",
-    "787.3431a20f.chunk.js.map": "/static/js/787.3431a20f.chunk.js.map"
+    "main.css": "/johnbrehm.dev/universalis-app/static/css/main.c00e8867.css",
+    "main.js": "/johnbrehm.dev/universalis-app/static/js/main.8972b00d.js",
+    "static/js/787.3431a20f.chunk.js": "/johnbrehm.dev/universalis-app/static/js/787.3431a20f.chunk.js",
+    "index.html": "/johnbrehm.dev/universalis-app/index.html",
+    "main.c00e8867.css.map": "/johnbrehm.dev/universalis-app/static/css/main.c00e8867.css.map",
+    "main.8972b00d.js.map": "/johnbrehm.dev/universalis-app/static/js/main.8972b00d.js.map",
+    "787.3431a20f.chunk.js.map": "/johnbrehm.dev/universalis-app/static/js/787.3431a20f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c00e8867.css",
-    "static/js/main.6381429b.js"
+    "static/js/main.8972b00d.js"
   ]
 }
